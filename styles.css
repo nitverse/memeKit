@@ -1,0 +1,99 @@
+body {
+  text-align: center;
+  background-color: #10324d;
+}
+
+h2 {
+  color: wheat;
+  font-size: 2rem;
+  font-family: cursive;
+}
+h1 {
+  color: white;
+  font-size: 3rem;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #ea418d;
+  margin-top: 80px;
+}
+
+footer {
+  color: #dbedf3;
+  font-family: sans-serif;
+}
+
+.set {
+  margin: 0% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #dbedf3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+img {
+  border-radius: 20px;
+  position: relative;
+  top: 50px;
+  width: 500px;
+  height: 300px;
+}
+.drum {
+  outline: none;
+  border: 10px solid #404b69;
+  font-size: 0rem;
+  font-family: "Arvo", cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #cb2e2e;
+  text-shadow: 3px 0 #dbedf3;
+  border-radius: 15px;
+  display: inline-block;
+  height: 300px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
+
+.w {
+  background-image: url("https://media.tenor.com/GLGE_1d2XOQAAAAC/white-safed.gif");
+  width: 400px;
+}
+
+.a {
+  background-image: url("https://media.tenor.com/kOfYk5lkA0gAAAAd/nana-patekar-crying.gif");
+  width: 400px;
+}
+
+.s {
+  background-image: url("https://media.tenor.com/w_As6lCbh4MAAAAC/jethalal-once-more.gif");
+  width: 400px;
+}
+
+.d {
+  background-image: url("https://media.tenor.com/y4fKDj4V_agAAAAd/tu-samjha-nhi-tu-nhi-smajha-akshay-kumar.gif");
+  width: 400px;
+}
+
+.j {
+  width: 400px;
+  background-image: url("https://media.tenor.com/2t2Xt746LycAAAAC/abbey-kya-bol-raha-hai-clear-bol-tiliyal-bol-phir-hera-pheri.gif");
+}
+
+.k {
+  background-image: url("https://media.tenor.com/qyGeg3S5zekAAAAd/abey-saale.gif");
+  width: 400px;
+}
+
+.l {
+  background-image: url("https://media.tenor.com/hPZxowvrSH0AAAAC/modi-are-bete.gif");
+  width: 400px;
+}
